@@ -2,7 +2,7 @@
 <samp>
 <img src="https://i.ibb.co/swDgz3K/amazon-logo.png">
 <h1>Amazon Clone - React</h1>
-<img src="https://i.ibb.co/N7v7sgw/webpage-under-construction.jpg">
+<img src="https://i.ibb.co/wBL3rZ8/amazon-mockup.png">
 <h3>🛒 <ins>About This Project</ins> 🛒</h3>
 <p>Clone of the biggest e-commerce website made with React.</p>
 <h3>📚 <ins>Stacks</ins> 📚</h3>
